@@ -26,6 +26,10 @@ def mac_değiştir(kullanici_arayuz, kullanici_mac):
 #    else:
 #       return None
 
+print("Created by : Mr.Ghost")
+
+time.sleep(2)
+
 print("Mac değiştirici başladı!")
 
 time.sleep(1)
